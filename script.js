@@ -1,5 +1,5 @@
 var classArray = ["firstClass", "SecondClass", "ThirdClass", "firstClass", "SecondClass", "ThirdClass"];
-var xx = document.getElementById("xxx");
+var xx = document.getElementById("square");
 
 function setColorClass(id) {
   let elem = document.getElementById(id);
